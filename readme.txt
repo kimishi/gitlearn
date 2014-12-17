@@ -9,3 +9,4 @@ Good , let us see what will happen
 
 Creating a branch is quick and simple.
 Hi, let us try --no-ff of git merge.
+#bug fixed -- issue-101
