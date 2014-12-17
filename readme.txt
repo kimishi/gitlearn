@@ -6,4 +6,5 @@ Hiahia
 Git tracks changes
 
 Good , let us see what will happen
-Creating a branch is quick & simple.
+
+Creating a branch is quick and simple.
